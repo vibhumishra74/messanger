@@ -1,0 +1,18 @@
+.message {
+  width: fit-content;
+  margin: 10px;
+  padding: 10px;
+}
+.message__user {
+  text-align: left !important;
+  margin-left: auto;
+  color: white;
+}
+
+.message__usercart {
+  background-color: #0b81ff !important;
+}
+
+.message__guestcart {
+  background-color: #e9e9bf !important;
+}
